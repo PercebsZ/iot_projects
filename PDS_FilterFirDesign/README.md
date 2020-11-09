@@ -32,6 +32,6 @@ Para finalizar, segue uma foto para ilustrar como ficou o projeto final:
 ![Ilustração Interface do Usuário](https://user-images.githubusercontent.com/49340230/98497096-840e7980-2219-11eb-9f5e-eabcf70ff43a.png)
 
 
-Manaus-AM
+Manaus-AM,
 08/11/2020
 
