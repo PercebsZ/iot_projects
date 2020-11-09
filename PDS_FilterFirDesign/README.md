@@ -1,5 +1,5 @@
 
-**Modelando um Filtro de Resposta ao Impulso Finita (Filtro FIR) com Python e integrado a um interface de usuário com Node-RED.**
+**Modelando um Filtro de Resposta ao Impulso Finita (Filtro FIR) com Python integrado a um interface de usuário com Node-RED.**
 
 Autores: Navid Salehi (back-end) e Tiago Sá (interface e integração)
 
